@@ -39,3 +39,10 @@ Concept practiced:
 - Method 2: Arithmetic (+ and -) → x = x+y, y = x-y, x = x-y
 
 Goal: Build a daily habit of practicing Python + committing to GitHub
+
+## Day 3 — July 13, 2026
+
+What I did:
+- Learned and practiced about Data Types in Python
+- Explored how Python automatically detects the type of a variable
+- Practiced using type() function to check data types
