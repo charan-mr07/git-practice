@@ -75,3 +75,10 @@ Note: I used an AI chatbot as a guide to help me understand and fix the
 issues I ran into today. I made sure to understand the reasoning behind 
 each fix rather than just copying solutions, which helped me learn Git 
 internals and Python logic more deeply.
+
+## Day 5 — July 15, 2026
+
+What I did:
+- Practiced for loop and while loop basics
+- Printed numbers 1 to 10 using for loop with range()
+- Printed even numbers between 1-10 using for loop + if condition
