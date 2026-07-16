@@ -9,3 +9,5 @@ Daily Git & Python practice log — preparing for B.Tech ECE by learning Git, Gi
 - Day 3: Practiced Python data types (int, float, string, boolean, list, tuple, dictionary)
 - Day 4: Fixed repo folder structure + practiced if-elif-else conditionals
 - Day 5: Practicing loops (for/while)
+- Day 6: Built a menu-driven ATM system using while loop, if-elif-else, 
+  and break — added PIN verification with limited attempts

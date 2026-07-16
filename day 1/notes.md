@@ -82,3 +82,22 @@ What I did:
 - Practiced for loop and while loop basics
 - Printed numbers 1 to 10 using for loop with range()
 - Printed even numbers between 1-10 using for loop + if condition
+
+## Day 6 — July 16, 2026
+
+What I did:
+- Built a simple ATM system using while loop, if-elif-else, and break
+- Menu-driven program: Check Balance, Deposit, Withdraw, Exit
+- Used while True: with break to keep the menu running until user exits
+- Handled insufficient balance case during withdrawal using if condition
+- Practiced updating a variable (balance) across multiple loop iterations
+- Realized my first version had no PIN check — added PIN verification 
+  before allowing access to the menu (with limited attempts, like a 
+  real ATM blocking the card after 3 wrong tries)
+
+Concept learned:
+- while True: creates an infinite loop that keeps running until explicitly stopped
+- break exits the loop immediately when a condition is met
+- Combined loops + conditionals + user input to build a real mini-project
+- Learned to think about missing real-world logic (like PIN security) 
+  and add it after reviewing my own code
