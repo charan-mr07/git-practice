@@ -101,3 +101,20 @@ Concept learned:
 - Combined loops + conditionals + user input to build a real mini-project
 - Learned to think about missing real-world logic (like PIN security) 
   and add it after reviewing my own code
+
+## Day 7 — July 17, 2026
+What I did:
+- Built a terminal-based Washing Machine Control Simulation using a while True loop and conditional if-elif-else logic.
+- Implemented a 4-option main menu: Select Mode, Start Wash, Check Time Remaining, and Exit.
+- Created a nested menu under "Select Mode" to set specific wash cycles with dynamic configurations:
+   Quick Wash: 15 minutes
+   Normal Wash: 30 minutes
+   Heavy Wash: 45 minutes
+- Handled state validation by ensuring the user cannot start the wash or check the remaining time without selecting a wash mode first (current_mode is None).
+- Used error-handling else blocks and the continue keyword to reset the loop if the user enters an invalid mode.
+
+Concepts learned:
+- State Initialization: Using None as a placeholder for a variable (current_mode) to track whether an action has taken place yet.
+- Nested Conditionals: Writing if-elif-else structures inside another if block to handle multi-layered user choices.
+- Loop Control Flow: Using continue to instantly skip the rest of the current loop iteration and restart from the top, preventing invalid data from processing.
+- Case Sensitivity in Variables: Realized how a single accidental capitalization (like Wash_time vs wash_time) can cause a bug, reinforcing the importance of consistent naming conventions.

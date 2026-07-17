@@ -11,3 +11,4 @@ Daily Git & Python practice log — preparing for B.Tech ECE by learning Git, Gi
 - Day 5: Practicing loops (for/while)
 - Day 6: Built a menu-driven ATM system using while loop, if-elif-else, 
   and break — added PIN verification with limited attempts
+- Day 7: Built a menu-driven washing machine simulation using a while loop, nested if-elif-else, and state tracking to select cycles and track time remaining and so.
