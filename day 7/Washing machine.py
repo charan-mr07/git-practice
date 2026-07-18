@@ -20,7 +20,7 @@ while True:
             wash_time = 30
         elif mode_choice ==3:
             current_mode = "Heavy"
-            Wash_time = 45
+            wash_time = 45
         else:
             print("INVALID MODE")
             continue

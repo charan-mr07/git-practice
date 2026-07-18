@@ -118,3 +118,21 @@ Concepts learned:
 - Nested Conditionals: Writing if-elif-else structures inside another if block to handle multi-layered user choices.
 - Loop Control Flow: Using continue to instantly skip the rest of the current loop iteration and restart from the top, preventing invalid data from processing.
 - Case Sensitivity in Variables: Realized how a single accidental capitalization (like Wash_time vs wash_time) can cause a bug, reinforcing the importance of consistent naming conventions.
+
+## Day 8 — July 18, 2026
+
+What I did:
+- Learned Python's built-in data structures: List, Tuple, Dictionary, Set
+- Practiced creating and modifying a List (append, remove)
+- Practiced Tuple (immutable, cannot be changed after creation)
+- Practiced Dictionary (key-value pairs, added/updated keys)
+- Practiced Set (unordered, automatically removes duplicates)
+- Faced a VS Code warning "python-envs.runAs not found" — fixed by updating VS Code
+
+Concept learned:
+- List: ordered, changeable, allows duplicates
+- Tuple: ordered, unchangeable, allows duplicates
+- Dictionary: key-value pairs, keys must be unique
+- Set: unordered, no duplicates allowed — useful for removing duplicate values
+- Choosing the right data structure depends on whether data needs to change, 
+  stay ordered, or avoid duplicates
