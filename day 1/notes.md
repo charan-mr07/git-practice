@@ -136,3 +136,19 @@ Concept learned:
 - Set: unordered, no duplicates allowed — useful for removing duplicate values
 - Choosing the right data structure depends on whether data needs to change, 
   stay ordered, or avoid duplicates
+
+  ## Day 9 — July 19, 2026
+
+What I did:
+- Practiced List methods: append, insert, remove, pop, sort, reverse, 
+  index, clear, len
+- Practiced List slicing and looping through a list
+- Practiced Tuple operations: indexing, slicing, count, index, len
+- Learned that tuples are immutable — to modify one, I need to convert 
+  it to a list first, make changes, then convert it back to a tuple
+
+Concept learned:
+- List methods can directly change (mutate) the list
+- Tuple has only read-only methods (count, index) — no way to modify it directly
+- Slicing works the same way for both lists and tuples: [start:end]
+- numbers[::-1] is a quick way to reverse any list or tuple

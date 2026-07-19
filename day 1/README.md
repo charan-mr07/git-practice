@@ -13,3 +13,4 @@ Daily Git & Python practice log — preparing for B.Tech ECE by learning Git, Gi
   and break — added PIN verification with limited attempts
 - Day 7: Built a menu-driven washing machine simulation using a while loop, nested if-elif-else, and state tracking to select cycles and track time remaining and so.
 - Day 8: Practiced built-in data structures — List, Tuple, Dictionary, Set
+- Day 9: Practiced List methods (append, insert, remove, pop, sort, etc.) and Tuple operations (indexing, slicing, count, index)
