@@ -137,7 +137,7 @@ Concept learned:
 - Choosing the right data structure depends on whether data needs to change, 
   stay ordered, or avoid duplicates
 
-  ## Day 9 — July 19, 2026
+## Day 9 — July 19, 2026
 
 What I did:
 - Practiced List methods: append, insert, remove, pop, sort, reverse, 
@@ -152,3 +152,20 @@ Concept learned:
 - Tuple has only read-only methods (count, index) — no way to modify it directly
 - Slicing works the same way for both lists and tuples: [start:end]
 - numbers[::-1] is a quick way to reverse any list or tuple
+
+## Day 10 — July 20, 2026
+
+What I did:
+- Practiced Dictionary methods: get(), update(), keys(), values(), items(), pop()
+- Learned the difference between direct access (student["key"]) and 
+  .get() method — direct access throws an error if key doesn't exist, 
+  but .get() safely returns None or a default value
+- Looped through a dictionary using .items() to print key-value pairs
+- Added, updated, and removed keys from a dictionary
+
+Concept learned:
+- .get() is safer than direct indexing when a key might not exist
+- .update() can add a new key or update an existing one
+- .items() is the standard way to loop through both keys and values together
+- Dictionaries are very useful for storing structured data (like a student 
+  record, config settings, or API response data)
