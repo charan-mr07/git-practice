@@ -169,3 +169,21 @@ Concept learned:
 - .items() is the standard way to loop through both keys and values together
 - Dictionaries are very useful for storing structured data (like a student 
   record, config settings, or API response data)
+
+  ## Day 11 — July 21, 2026
+
+What I did:
+- Practiced Set operations: union (|), intersection (&), difference (-), and symmetric difference (^)
+- Learned both operator style (|, &, -, ^) and method style (.union(), .intersection(), .difference(), .symmetric_difference())
+- Explored Set methods: add(), update(), remove(), discard(), and pop()
+- Understood the difference between remove() and discard() — remove() throws a KeyError if the element is missing, but discard() does not
+- Learned that pop() removes a random element since sets are unordered
+- Practiced subset, superset, and disjoint checks using issubset(), issuperset(), and isdisjoint()
+- Built a real-world example using sets to find common friends, all friends, and unique friends between two people
+
+Key takeaways:
+- Sets store only unique elements — duplicates are automatically removed
+- Sets are unordered, so indexing is not possible
+- Set operations are very useful for comparing data (finding common items, unique items, etc.)
+- Use | for union, & for intersection, - for difference, ^ for symmetric difference
+- Use discard() instead of remove() when you're not sure if the element exists
