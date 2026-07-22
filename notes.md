@@ -187,3 +187,19 @@ Key takeaways:
 - Set operations are very useful for comparing data (finding common items, unique items, etc.)
 - Use | for union, & for intersection, - for difference, ^ for symmetric difference
 - Use discard() instead of remove() when you're not sure if the element exists
+
+## Day 12 — July 22, 2026
+
+What I did:
+- Practiced writing basic Python functions
+- Created functions with parameters and return values
+- Learned the difference between print() and return inside a function
+- Practiced default parameter values (like name="Guest")
+- Wrote and tested functions: add_numbers(), square(), welcome()
+
+Concept learned:
+- def keyword is used to define a function
+- Functions help avoid repeating the same code again and again
+- print() only displays output, return actually sends a value back that 
+  can be stored and reused
+- Default parameters let a function work even if no argument is passed
