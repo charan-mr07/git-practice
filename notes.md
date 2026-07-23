@@ -203,3 +203,24 @@ Concept learned:
 - print() only displays output, return actually sends a value back that 
   can be stored and reused
 - Default parameters let a function work even if no argument is passed
+
+## Day 13 — July 23, 2026
+
+What I did:
+- Practiced common String methods: strip(), lower(), upper(), replace(), split()
+- Practiced string checks: startswith(), endswith(), isdigit(), isalpha()
+- Practiced string slicing and indexing (first character, last character, substring)
+- Learned split() and join() as a pair — split() converts a string into 
+  a list, join() converts a list back into a string
+- Solved a practice problem: cleaned a sentence with extra spaces, changed 
+  case, replaced a word, counted words, and checked if it starts with a 
+  specific word
+
+Concept learned:
+- strip() only removes spaces from the start and end, not in the middle
+- Always strip() before using startswith()/endswith() if the string might 
+  have extra leading/trailing spaces — otherwise the check can wrongly 
+  return False
+- split() automatically handles multiple/extra spaces between words
+- String methods don't change the original string — they return a new one 
+  (strings are immutable in Python)
